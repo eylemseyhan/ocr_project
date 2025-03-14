@@ -1,0 +1,18 @@
+blis==0.7.9
+build==1.2.2.post1
+cymem==2.0.11
+Cython==3.0.12
+editdistpy==0.1.5
+importlib_metadata==8.6.1
+murmurhash==1.0.12
+numpy==2.2.3
+opencv-python-headless==4.11.0.86
+packaging==24.2
+pillow==11.1.0
+preshed==3.0.9
+pyproject_hooks==1.2.0
+pytesseract==0.3.13
+setuptools==76.0.0
+symspellpy @ file:///Users/eylemseyhan/symspellpy
+wheel==0.45.1
+zipp==3.21.0
