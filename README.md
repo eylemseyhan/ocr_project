@@ -29,17 +29,7 @@ Linux/Mac: /opt/homebrew/bin/tesseract gibi bir dizinde bulunmalı.
 
 Windows: tesseract.exe yolunu belirleyin.
 
-Projeyi çalıştırmak için:
 
-python main.py image.png
-
-# Projenin Yapısı
-
-project-folder/
-│── main.py                  # Ana çalışma dosyası
-│── symspell_corrector.py    # Metin düzeltme ve temizleme fonksiyonları
-│── requirements.txt         # Gerekli paketler
-│── output/                  # OCR çıktıları
               
 
 # Çıktı Formatı
